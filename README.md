@@ -13,6 +13,7 @@ The academic points will add up into the specific student's profile until it rea
 
 We also added read, save and remove functions:
 * Read text file - automatically add one (or more) of the above instead of entering it manually.
+* Update (change) each field in given class.
 * Save to text file(s).
 * Remove student / teacher / course.
 * Sort each of those lists by each parameter they have.
