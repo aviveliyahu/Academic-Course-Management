@@ -1,0 +1,8 @@
+Sarah,Khoury,24235465,32,sarahkhoury@gmail.com,prof
+Mohammed,Naser,62334854,42,mohammednaser@gmail.com,doc
+Aisha,Said,84457465,38,aishasaid@gmail.com,prof
+Samir,ABU-LIAH,23444444,45,samirabu-lah@gmail.com,doc
+Wael,Mousa,23367895,29,waelmousa@gmail.com,doc
+Reem,ABU-LIAH,23434565,36,reemabu-lah@gmail.com,doc
+Lama,Naser,23235456,23,lmanaser@gmail.com,prof
+Noor,SALAH,23236547,42,noorsalah@gmail.com,doc

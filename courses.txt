@@ -1,0 +1,8 @@
+24235465,Programming,1,2
+62334854,Computer Science,2,3
+84457465,Mathematics,3,4
+23444444,Data Science,4,3
+23367895,Software Engineering,5,4
+23434565,Database Systems,6,3
+23235456,Web Development,7,2
+23236547,Artificial Intelligence,8,4
