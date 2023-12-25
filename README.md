@@ -1,7 +1,7 @@
 # Academic Courses Management System
 ## Description
 
-A collaborated project that was presented as our final task in advanced Java course. It is supposed to summarize what we studied in our courses - classes, inheritance, GUI, read and write files, dealing with user inputs (including exceptions handling) and many more..
+A collaborated project that was presented as our final task in advanced Java course. It is supposed to summarize what we studied in our courses - classes, abstracted classess, inheritance, GUI, read and write files, dealing with user inputs (including exceptions handling) and many more..
 
 The project we created is a course management system that allows the user to do the following things using the IDE's terminal with a minimalistic GUI:
 * Add student - first name, last name, ID, age, email.
