@@ -39,4 +39,7 @@ Feel free to use it as a base for your project, but make sure to give us credits
 
 Contributors:
 
-[@AvivEliyahu](https://github.com/aviveliyahu)
+[@Aviv Eliyahu](https://github.com/aviveliyahu)
+[@Ariel Goldwaser](https://github.com/ArielGold1)
+[@Matan Asraf](https://github.com/matanasaraf)
+
